@@ -1,4 +1,4 @@
-# MR. Meesheek
+# Mr. Meesheek
 
 ARKIT application where Mr. Meesheek will be in the same room as you.
 
